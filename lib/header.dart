@@ -17,7 +17,9 @@ class Header extends StatelessWidget with PreferredSizeWidget{
           child: Icon(Icons.add),
         ),
       ],
-      title: Text('ホームです'),
+      title: Text(
+        'ホーム',
+      ),
       backgroundColor: Colors.black87,
       centerTitle: true,
       elevation: 0.0,
