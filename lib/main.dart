@@ -12,7 +12,7 @@ class App extends StatelessWidget{
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: Header(),
-        body: Center(child: Text("オラオラオラオラ")),
+        body: Center(child: Text("オラオラオラオラ変更してみる")),
       ),
     );
   }
